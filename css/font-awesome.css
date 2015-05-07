@@ -1232,6 +1232,9 @@
 .fa-apple:before {
   content: "\f179";
 }
+.fa-jira:before {
+  content:url(../img/jira.png);
+}
 .fa-windows:before {
   content: "\f17a";
 }

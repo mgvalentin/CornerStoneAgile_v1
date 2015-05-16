@@ -22,9 +22,15 @@ img {
     max-width: 100%;
 }
 
-a, a:hover, a:active {
+/* 2015/05/16 - MV added  visited and hover treatment to anchor along with color: inherit */
+a, a:hover, a:active a:visited a:hover {
     outline: 0px !important;
 	text-decoration:none;
+    color: inherit;
+}
+
+
+
 }
 .clear {
     clear: both;

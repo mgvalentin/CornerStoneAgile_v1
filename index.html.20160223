@@ -111,7 +111,7 @@
     <div class="service_icon icon2  delay-03s animated wow zoomIn"><span><i class="fa fa-jira"></i></span></div>
     <div class="service_block">
             <h3 class="animated fadeInUp wow">Agile Technology Consulting</h3>
-            <p class="animated fadeInDown wow">From Atlassian JIRA Software installation and workflow configuration to end-to-end tool chain integration with Bitbucket and Bamboo, we'll help your team to understand and deploy Continuous Delivery methods and tools.<BR><BR><BR></p>
+            <p class="animated fadeInDown wow">From Atlassian JIRA AGILE installation and workflow configuration to end-to-end tool chain integration with Stash and Bamboo, we'll help your  team to understand and deploy Continuous Delivery methods and tools.<BR><BR><BR></p>
           </div>
         </div>
         <div class="col-lg-4">
@@ -168,7 +168,7 @@
                     <li class="points">Certified Scrum Product Owners (CSPO)</li>
                     <li class="points">Agile Software Development Transformation</li>
                     <li class="points">Test Driven (TDD) and Behavior Driven Development (BDD)</li>
-                    <li class="points">Integration of Atlassian's JIRA Software, Bitbucket and Bamboo</li>
+                    <li class="points">Integration of JIRA, JIRA Agile, Stash, Git, Bamboo</li>
                     <li class="points">Migration of SVN to GIT</li>
                     <li class="points">Traditional to Agile Project Management Office (PMO) Transformation</li>
                     <li class="points">Project Management Professionals (PMP)</li>
